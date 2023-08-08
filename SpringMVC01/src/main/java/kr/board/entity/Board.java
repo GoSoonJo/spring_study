@@ -1,5 +1,7 @@
 package kr.board.entity;
 
+
+// lombok 추가예정
 public class Board {
 	private int idx;// 번호
 	private String title; // 제목
