@@ -18,7 +18,7 @@
   <div class="panel panel-default">
     <div class="panel-heading">Board</div>
     <div class="panel-body">Panel Content</div>
-    <div class="panel-footer">스프1탄</div>
+    <div class="panel-footer">스프1탄_</div>
   </div>
 </div>
 
